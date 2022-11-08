@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maslan34
 - 👀 I’m interested in CyberSecurity and App Devoloping.
-- 🌱 I’m currently learning C Java Matlab 
+- 🌱 I’m currently learning C Java Matlab Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
