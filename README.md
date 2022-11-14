@@ -5,8 +5,9 @@
 - 📫 How to reach me ...
 - 👨‍💻Certificates -> https://drive.google.com/drive/folders/1Bm5ae8R4pKE0wXbr2599VvM5RAy22OW3?usp=sharing
 
-- Languages:
+- Skills:
 - C
+- ORACLE
 - Python ├── Django├── Selenium├── Boostrap├── PyQt5├── Panda
 - Java
 - Matlab
