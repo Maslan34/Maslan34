@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C Java Matlab Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 👨‍💻Certificates -> https://drive.google.com/drive/folders/1Bm5ae8R4pKE0wXbr2599VvM5RAy22OW3?usp=sharing
 
 - Languages:
 - C
