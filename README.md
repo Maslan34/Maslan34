@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maslan34
 - 👀 I’m interested in CyberSecurity and App Devoloping.
 - 🌱 I’m currently learning C Java  Flutter
-- 👨‍💻Certificates -> https://drive.google.com/drive/folders/1Bm5ae8R4pKE0wXbr2599VvM5RAy22OW3?usp=sharing
+- 👨‍💻Certificates & Docs -> https://drive.google.com/drive/folders/1Bm5ae8R4pKE0wXbr2599VvM5RAy22OW3?usp=sharing
 
 - Skills:
 - C
