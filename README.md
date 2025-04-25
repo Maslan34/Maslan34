@@ -5,17 +5,16 @@
 
 - Skills:
 - C
-- Flutter
+- Java ├── Spring ├── Security ├── Redis
 - Node.Js ├──Express ├── MongoDb
+- Flutter  ├── Provider ├── Firebase
 - Javascript
 - GraphQL
-- ORACLE
 - Python ├──Scikit-Learn ├── Django ├── Selenium ├── Boostrap ├── PyQt5├── Panda
-- Java
-- Matlab
 - PHP ├── Laravel
+- ORACLE
 - R
-
+- Matlab
 
 
 
